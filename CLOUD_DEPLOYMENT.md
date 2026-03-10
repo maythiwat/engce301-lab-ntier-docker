@@ -1,5 +1,5 @@
 # Cloud Deployment Analysis
-## ENGSE207 - Week 7 Lab
+## ENGCE301 - Week 7 Lab
 
 **ชื่อ-นามสกุล:** เมธิวัฒน์ ชมชื่น
 **รหัสนักศึกษา:** 67543206069-6
